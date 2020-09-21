@@ -3,7 +3,7 @@
  ******************/
 
 // Old way 
- let greeting = 'Hello';
+let greeting = 'Hello';
 let sum = 0;
 let prod = 0;
 function greet(name){
